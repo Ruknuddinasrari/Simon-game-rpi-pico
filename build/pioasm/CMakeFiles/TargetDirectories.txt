@@ -1,3 +1,0 @@
-C:/Users/RK/Documents/midterm2/sp23-ece520-midterm2-proj-simon-game-Ruknuddinasrari/build/pioasm/CMakeFiles/pioasm.dir
-C:/Users/RK/Documents/midterm2/sp23-ece520-midterm2-proj-simon-game-Ruknuddinasrari/build/pioasm/CMakeFiles/edit_cache.dir
-C:/Users/RK/Documents/midterm2/sp23-ece520-midterm2-proj-simon-game-Ruknuddinasrari/build/pioasm/CMakeFiles/rebuild_cache.dir
